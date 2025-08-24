@@ -1,0 +1,6 @@
+reservation_id,guest_name,check_in_date,check_out_date,num_guests,phone_number,room_type,status
+rohit,taj hotel,2025-07-22,2025-07-27,2.0,8595995026.0,king room,confirmed
+RES2,rohit,2025-07-25,2025-07-27,2.0,8595995026.0,king,confirmed
+RES3,raj,2025-07-25,2025-07-27,3.0,8595995026.0,king,confirmed
+RES4,,,,,,,not_confirmed
+RES5,dev,2025-07-28,,3.0,9876543210,single bed,not_confirmed

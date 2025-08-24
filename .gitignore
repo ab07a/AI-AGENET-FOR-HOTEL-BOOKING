@@ -1,0 +1,4 @@
+Python_Project.code-workspace
+.env
+myenv/
+__pycache__/
