@@ -12,8 +12,8 @@ import operator
 import pandas as pd
 import prompt
 from dm_function import send_message
-"17841439819236506"
 from sms import send_sms
+from dotenv import load_dotenv
 load_dotenv()
 
 api_key = os.getenv("gemini_api_key")
